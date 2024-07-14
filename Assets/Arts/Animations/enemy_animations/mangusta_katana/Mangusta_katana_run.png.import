@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://do1yflijhcwyu"
-path="res://.godot/imported/drone_start_attack.png-4ed16a74e456b004968ae425901c1ef6.ctex"
+uid="uid://cwko0giiqdius"
+path="res://.godot/imported/Mangusta_katana_run.png-f61b9686bfa73c6334c9f8b595c4482c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Arts/Animations/drone_animations/drone_start_attack.png"
-dest_files=["res://.godot/imported/drone_start_attack.png-4ed16a74e456b004968ae425901c1ef6.ctex"]
+source_file="res://Assets/Arts/Animations/enemy_animations/mangusta_katana/Mangusta_katana_run.png"
+dest_files=["res://.godot/imported/Mangusta_katana_run.png-f61b9686bfa73c6334c9f8b595c4482c.ctex"]
 
 [params]
 

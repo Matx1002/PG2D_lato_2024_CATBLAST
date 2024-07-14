@@ -58,10 +58,7 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 
 func _physics_process(delta):
-	if GlobalVariables.CURRENT_LEVEL == 2:
-		vignette_rect.visible = true
-	else:
-		vignette_rect.visible = false	
+	
 	if not is_on_floor():
 		velocity.y += gravity * delta
 	is_hurt = anim.current_animation == "Hurt"
